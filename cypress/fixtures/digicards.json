@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://digicards.onrender.com",
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ]
+}
