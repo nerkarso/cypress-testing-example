@@ -1,6 +1,6 @@
 # Testing Playground
 
-![Demo](https://i.imgur.com/UDClEJT.gif)
+<img src="https://i.imgur.com/TOpgugN.gif" width="768" />
 
 ## Getting Started
 
