@@ -1,4 +1,4 @@
-# Testing Playground
+# Cypress Testing
 
 <img src="https://i.imgur.com/TOpgugN.gif" width="768" />
 
