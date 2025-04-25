@@ -1,6 +1,6 @@
 # Cypress Testing
 
-<img src="https://i.imgur.com/TOpgugN.gif" width="768" />
+<img src="https://i.postimg.cc/gJGWrH1C/Cypress-Demo.gif" width="768" />
 
 ## Getting Started
 
